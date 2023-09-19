@@ -1,8 +1,8 @@
 # HousePrices
-To run the code you must first download the dataset from https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads and then run the Database Creation.ipynb.
+To run the code you must first download the dataset from https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads and then run the Database Creation.ipynb. The interactive dashboard is too large to upload to github. I tried to use git lfs but I could not get it to work.
 
 From our analysis, we can see that the capital clearly has the most expensive property prices. 
-On closer inspection the further north the city the more likely it is to have lower property value. We can see this in the heat map generated on Power BI. Properties in the south are more expensive than the north and have a close proximity to London also seems to boost housing prices.
+On closer inspection the further north the city the more likely it is to have lower property value. We can see this in the heat map generated on Power BI. Properties in the south are more expensive than in the north and having a close proximity to London also seems to boost housing prices.
 
 Furthermore, we can see huge dips in the sales of properties since 1995. 
 There a 3 dips: 
